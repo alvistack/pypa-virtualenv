@@ -2,7 +2,7 @@ from __future__ import absolute_import, unicode_literals
 
 from collections import OrderedDict
 
-from backports.entry_points_selectable import entry_points
+from importlib_metadata import entry_points
 
 
 class PluginLoader(object):
