@@ -20,7 +20,6 @@ dist
 
 /docs/_draft.rst
 /pip-wheel-metadata
-/src/virtualenv/version.py
 /src/virtualenv/out
 venv*
 .python-version
@@ -29,3 +28,5 @@ venv*
 
 Dockerfile*
 .dockerignore
+
+.pybuild
