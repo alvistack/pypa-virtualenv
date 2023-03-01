@@ -1,0 +1,4 @@
+python3-virtualenv: copyright-without-copyright-notice
+python3-virtualenv: initial-upload-closes-no-bugs
+python3-virtualenv: no-manual-page
+python3-virtualenv: zero-byte-file-in-doc-directory
