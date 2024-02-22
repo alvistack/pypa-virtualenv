@@ -1,0 +1,4 @@
+python-virtualenv source: file-without-copyright-information
+python-virtualenv source: no-debian-changes
+python-virtualenv source: source-contains-prebuilt-windows-binary
+python-virtualenv source: source-package-encodes-python-version
