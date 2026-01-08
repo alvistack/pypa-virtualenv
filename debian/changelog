@@ -1,0 +1,5 @@
+python-virtualenv (100:20.35.4-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pypa/virtualenv/releases/tag/20.35.4
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Wed, 29 Oct 2025 20:05:33 +0800
