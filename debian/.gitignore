@@ -1,0 +1,7 @@
+*.substvars
+*debhelper*
+.debhelper
+files
+tmp
+python3-virtualenv
+virtualenv
